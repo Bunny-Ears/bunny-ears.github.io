@@ -4,7 +4,7 @@ html {
 }
 
 @font-face {
-    font-family: "Signika";
+    font-family: signika;
     src: url(SignikaNegative-Semibold.ttf);
 }
 
@@ -15,7 +15,7 @@ body {
     background-size: 100% 100%;
     background-position: 0px 0px,0px 0px,0px 0px,0px 0px,0px 0px,0px 0px,0px 0px,0px 0px,0px 0px,0px 0px,0px 0px;
     background-image: radial-gradient(18% 28% at 24% 50%, #BC8FFDAD 6%, #FF4FD200 83%, #073AFF00 100%),radial-gradient(18% 28% at 18% 71%, #E0A8F2F5 6%, #073AFF00 100%),radial-gradient(70% 53% at 36% 76%, #D966D7FF 0%, #073AFF00 100%),radial-gradient(42% 53% at 15% 94%, #E0A8F2F5 7%, #073AFF00 100%),radial-gradient(42% 53% at 34% 72%, #FFFFFFFF 7%, #073AFF00 100%),radial-gradient(18% 28% at 35% 87%, #9342DDFF 7%, #073AFF00 100%),radial-gradient(31% 43% at 7% 98%, #FFFFFFFF 24%, #073AFF00 100%),radial-gradient(21% 37% at 72% 23%, #BA9EFFF5 24%, #073AFF00 100%),radial-gradient(35% 56% at 91% 74%, #FF4FD2F5 9%, #073AFF00 100%),radial-gradient(74% 86% at 67% 38%, #D6C6E6F5 24%, #073AFF00 100%),linear-gradient(127deg, #8A4FFFF5 1%, #4C00FCFF 100%);
-    font-family: "Signika";
+    font-family: signika;
 }
 
 h1 {
