@@ -34,8 +34,8 @@ h3 {
     background: rgba(255, 255, 255, 0.2);
     border-radius: 16px;
     box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
-    backdrop-filter: blur(10.5px);
     -webkit-backdrop-filter: blur(10.5px);
+    backdrop-filter: blur(10.5px);
     border: 1px solid rgba(255, 255, 255, 0.3);
     overflow-wrap: normal;
     transition: all 400ms;
@@ -91,6 +91,7 @@ a {
     aspect-ratio: 1/1;
     margin-top: 5%;
 }
+
 #moustage>.centre {
     background-color: #8c6a4b;
 }
@@ -99,4 +100,8 @@ a {
 
 #meaty>.centre {
     background-color: #FFFFFFFF;
+}
+
+#render>img {
+    background-color: #dac9ad;
 }
