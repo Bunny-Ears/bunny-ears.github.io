@@ -104,3 +104,16 @@ a {
 #render>img {
     background-color: #dac9ad;
 }
+
+#sorry>.centre {
+  background-color: rgb(173, 70, 99);
+}
+
+#sorry>.centre>img {
+
+  border-radius: 16px;
+  width: 60%;
+  height: 90%;
+  margin-top: 5%;
+  aspect-ratio: 1/1;
+}
